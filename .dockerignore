@@ -1,0 +1,6 @@
+# Arquivo que ignora oque será transferido para dentro da Imagem.
+node_modules
+npm-debug.log
+.git
+.gitignore
+.vscode
